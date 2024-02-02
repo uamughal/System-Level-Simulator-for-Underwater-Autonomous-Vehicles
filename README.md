@@ -1,4 +1,4 @@
-# Underwater-System-Level-Simulator
+# System-Level-Simulator for Underwater Autonomous Vehicles
 - This Simulator has been funded by the Oceanic IT Convergence Centre under the Ministry of Science and ICT, Korea
 
  ## Working Flow of the Simulator
